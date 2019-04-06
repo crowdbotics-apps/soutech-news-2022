@@ -1,0 +1,3 @@
+rootProject.name = 'soutech_news_2022'
+
+include ':app'
